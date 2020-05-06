@@ -7,5 +7,5 @@ To run it, we edited .bashrc
 as follows:
 
 ```sh
-chromium-browser --kiosk www.google.com
+chromium-browser --kiosk https://nickbeau.github.io/InfoMan/
 ```
